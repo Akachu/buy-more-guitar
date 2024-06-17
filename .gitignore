@@ -1,0 +1,7 @@
+.idea/
+dist/
+node_modules/
+.env
+results.json
+settings.json
+subscriptions.json
